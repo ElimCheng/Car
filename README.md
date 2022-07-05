@@ -12,6 +12,5 @@ This is my practice for coding.(Progressing)
 ### Reference: 
 [github.com/gniziemazity/Self-driving-car.git](https://github.com/gniziemazity/Self-driving-car.git)
 
-### Demo:
-<img align="center" alt="demi" width="500px" src=" style="padding-center:10px;"/>
+
 
